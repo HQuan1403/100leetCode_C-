@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HQuan1403/100leetCode_C-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/HQuan1403/100leetCode_C-/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/HQuan1403/100leetCode_C-/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -20,5 +21,10 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HQuan1403/100leetCode_C-/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/HQuan1403/100leetCode_C-/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HQuan1403/100leetCode_C-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
