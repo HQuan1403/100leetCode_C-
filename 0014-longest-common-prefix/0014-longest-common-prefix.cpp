@@ -10,8 +10,6 @@ public:
                 }
             }
         }
-        
-        // Nếu duyệt hết chuỗi đầu tiên mà tất cả đều khớp
         return strs[0];
     }
 };
