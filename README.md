@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/HQuan1403/100leetCode_C-/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/HQuan1403/100leetCode_C-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/HQuan1403/100leetCode_C-/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/HQuan1403/100leetCode_C-/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/HQuan1403/100leetCode_C-/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/HQuan1403/100leetCode_C-/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
