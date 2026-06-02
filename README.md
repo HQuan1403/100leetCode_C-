@@ -20,6 +20,7 @@
 | [0242-valid-anagram](https://github.com/HQuan1403/100leetCode_C-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/HQuan1403/100leetCode_C-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HQuan1403/100leetCode_C-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/HQuan1403/100leetCode_C-/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@
 | [0058-length-of-last-word](https://github.com/HQuan1403/100leetCode_C-/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/HQuan1403/100leetCode_C-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/HQuan1403/100leetCode_C-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/HQuan1403/100leetCode_C-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/HQuan1403/100leetCode_C-/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -61,6 +63,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HQuan1403/100leetCode_C-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HQuan1403/100leetCode_C-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/HQuan1403/100leetCode_C-/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -93,4 +96,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HQuan1403/100leetCode_C-/tree/master/0013-roman-to-integer) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HQuan1403/100leetCode_C-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
