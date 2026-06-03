@@ -16,6 +16,7 @@
 | [0575-distribute-candies](https://github.com/HQuan1403/100leetCode_C-/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/HQuan1403/100leetCode_C-/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/HQuan1403/100leetCode_C-/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0389-find-the-difference](https://github.com/HQuan1403/100leetCode_C-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/HQuan1403/100leetCode_C-/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/HQuan1403/100leetCode_C-/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/HQuan1403/100leetCode_C-/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
