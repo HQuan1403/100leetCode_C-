@@ -17,6 +17,7 @@
 | [0605-can-place-flowers](https://github.com/HQuan1403/100leetCode_C-/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/HQuan1403/100leetCode_C-/tree/master/1051-height-checker) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HQuan1403/100leetCode_C-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/HQuan1403/100leetCode_C-/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/HQuan1403/100leetCode_C-/tree/master/0412-fizz-buzz) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HQuan1403/100leetCode_C-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Queue
 |  |
 | ------- |
