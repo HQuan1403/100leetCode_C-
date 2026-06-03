@@ -19,6 +19,7 @@
 | [1051-height-checker](https://github.com/HQuan1403/100leetCode_C-/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HQuan1403/100leetCode_C-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HQuan1403/100leetCode_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0454-4sum-ii](https://github.com/HQuan1403/100leetCode_C-/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/HQuan1403/100leetCode_C-/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HQuan1403/100leetCode_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0412-fizz-buzz](https://github.com/HQuan1403/100leetCode_C-/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/HQuan1403/100leetCode_C-/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/HQuan1403/100leetCode_C-/tree/master/0824-goat-latin) |
+| [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
 ## Trie
 |  |
 | ------- |
