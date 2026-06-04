@@ -65,6 +65,7 @@
 | [0709-to-lower-case](https://github.com/HQuan1403/100leetCode_C-/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/HQuan1403/100leetCode_C-/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
+| [1556-thousand-separator](https://github.com/HQuan1403/100leetCode_C-/tree/master/1556-thousand-separator) |
 ## Trie
 |  |
 | ------- |
