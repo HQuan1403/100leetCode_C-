@@ -46,6 +46,7 @@
 | [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/HQuan1403/100leetCode_C-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/HQuan1403/100leetCode_C-/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/HQuan1403/100leetCode_C-/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HQuan1403/100leetCode_C-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -80,6 +81,7 @@
 | [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/HQuan1403/100leetCode_C-/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/HQuan1403/100leetCode_C-/tree/master/1694-reformat-phone-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/HQuan1403/100leetCode_C-/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HQuan1403/100leetCode_C-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Trie
