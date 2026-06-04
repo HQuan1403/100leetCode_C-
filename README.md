@@ -27,6 +27,7 @@
 | [1748-sum-of-unique-elements](https://github.com/HQuan1403/100leetCode_C-/tree/master/1748-sum-of-unique-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/HQuan1403/100leetCode_C-/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/HQuan1403/100leetCode_C-/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/HQuan1403/100leetCode_C-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@
 | [0455-assign-cookies](https://github.com/HQuan1403/100leetCode_C-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/HQuan1403/100leetCode_C-/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/HQuan1403/100leetCode_C-/tree/master/0860-lemonade-change) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/HQuan1403/100leetCode_C-/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Merge Sort
 |  |
 | ------- |
