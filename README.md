@@ -75,6 +75,7 @@
 | [0824-goat-latin](https://github.com/HQuan1403/100leetCode_C-/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/HQuan1403/100leetCode_C-/tree/master/1556-thousand-separator) |
+| [1694-reformat-phone-number](https://github.com/HQuan1403/100leetCode_C-/tree/master/1694-reformat-phone-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HQuan1403/100leetCode_C-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Trie
