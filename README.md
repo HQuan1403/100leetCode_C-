@@ -26,6 +26,7 @@
 | [1732-find-the-highest-altitude](https://github.com/HQuan1403/100leetCode_C-/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/HQuan1403/100leetCode_C-/tree/master/1748-sum-of-unique-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/HQuan1403/100leetCode_C-/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/HQuan1403/100leetCode_C-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HQuan1403/100leetCode_C-/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/HQuan1403/100leetCode_C-/tree/master/2073-time-needed-to-buy-tickets) |
 ## String Matching
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0495-teemo-attacking](https://github.com/HQuan1403/100leetCode_C-/tree/master/0495-teemo-attacking) |
 | [1103-distribute-candies-to-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/HQuan1403/100leetCode_C-/tree/master/1518-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/HQuan1403/100leetCode_C-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
