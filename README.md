@@ -16,6 +16,7 @@
 | [0575-distribute-candies](https://github.com/HQuan1403/100leetCode_C-/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/HQuan1403/100leetCode_C-/tree/master/0605-can-place-flowers) |
 | [0819-most-common-word](https://github.com/HQuan1403/100leetCode_C-/tree/master/0819-most-common-word) |
+| [0860-lemonade-change](https://github.com/HQuan1403/100leetCode_C-/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/HQuan1403/100leetCode_C-/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HQuan1403/100leetCode_C-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/HQuan1403/100leetCode_C-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/HQuan1403/100leetCode_C-/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/HQuan1403/100leetCode_C-/tree/master/0860-lemonade-change) |
 ## Merge Sort
 |  |
 | ------- |
