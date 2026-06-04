@@ -25,6 +25,7 @@
 | [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/HQuan1403/100leetCode_C-/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/HQuan1403/100leetCode_C-/tree/master/1748-sum-of-unique-elements) |
+| [2057-smallest-index-with-equal-value](https://github.com/HQuan1403/100leetCode_C-/tree/master/2057-smallest-index-with-equal-value) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
