@@ -23,6 +23,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HQuan1403/100leetCode_C-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HQuan1403/100leetCode_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/HQuan1403/100leetCode_C-/tree/master/1436-destination-city) |
+| [1732-find-the-highest-altitude](https://github.com/HQuan1403/100leetCode_C-/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -167,4 +168,8 @@
 | [0495-teemo-attacking](https://github.com/HQuan1403/100leetCode_C-/tree/master/0495-teemo-attacking) |
 | [1103-distribute-candies-to-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/HQuan1403/100leetCode_C-/tree/master/1518-water-bottles) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/HQuan1403/100leetCode_C-/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
