@@ -28,6 +28,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/HQuan1403/100leetCode_C-/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/HQuan1403/100leetCode_C-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HQuan1403/100leetCode_C-/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 | [0912-sort-an-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/HQuan1403/100leetCode_C-/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HQuan1403/100leetCode_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/HQuan1403/100leetCode_C-/tree/master/1732-find-the-highest-altitude) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
