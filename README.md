@@ -30,6 +30,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HQuan1403/100leetCode_C-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/HQuan1403/100leetCode_C-/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HQuan1403/100leetCode_C-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 | [1051-height-checker](https://github.com/HQuan1403/100leetCode_C-/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HQuan1403/100leetCode_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HQuan1403/100leetCode_C-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HQuan1403/100leetCode_C-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -144,6 +146,7 @@
 | [0605-can-place-flowers](https://github.com/HQuan1403/100leetCode_C-/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/HQuan1403/100leetCode_C-/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HQuan1403/100leetCode_C-/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HQuan1403/100leetCode_C-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Merge Sort
 |  |
 | ------- |
