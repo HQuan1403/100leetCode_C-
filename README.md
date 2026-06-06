@@ -90,6 +90,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/HQuan1403/100leetCode_C-/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HQuan1403/100leetCode_C-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/HQuan1403/100leetCode_C-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/HQuan1403/100leetCode_C-/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/HQuan1403/100leetCode_C-/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
