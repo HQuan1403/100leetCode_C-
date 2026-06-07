@@ -177,6 +177,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HQuan1403/100leetCode_C-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/HQuan1403/100leetCode_C-/tree/master/1518-water-bottles) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/HQuan1403/100leetCode_C-/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2169-count-operations-to-obtain-zero](https://github.com/HQuan1403/100leetCode_C-/tree/master/2169-count-operations-to-obtain-zero) |
 ## Queue
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [1518-water-bottles](https://github.com/HQuan1403/100leetCode_C-/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/HQuan1403/100leetCode_C-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/HQuan1403/100leetCode_C-/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/HQuan1403/100leetCode_C-/tree/master/2169-count-operations-to-obtain-zero) |
 ## Prefix Sum
 |  |
 | ------- |
